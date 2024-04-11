@@ -2,14 +2,14 @@
 title: "Denise Piechnik"
 image: "Dpiech_image300.jpeg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://linkedin.com/in/dapiechnik 'target = _blank' "
 #  - label: Twitter
 #    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+  - label: '`r fontawesome::fa("github", height = "25px")`'
+    url: "https://github.com/piechnik-d 'target = _blank' "
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "mailto:piechnik.da@gmail.com"
 output:
   postcards::jolla
 site: distill::distill_website
