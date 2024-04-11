@@ -6,14 +6,28 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-04-11T09:48:16-04:00"
+      "last_modified": "2024-04-11T11:26:24-04:00"
     },
     {
       "path": "index.html",
       "title": "Denise Piechnik",
       "author": [],
       "contents": "\n\n          \n          \n          Denise Piechnik\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Denise Piechnik\n          \n          \n            \n              Raised on a farm in mid-Michigan, I found my passion\n              for science in California doing ecological research. Now\n              residing in NY, I am an aspiring data scientist and a\n              fiddle player.\n              I recently left an academic position to change careers.\n              I am seeking opportunities to apply my diverse skill set\n              to sustainability and environmental problem-solving.\n            \n            \n              Raised on a farm in mid-Michigan, I found my passion\n              for science in California doing ecological research. Now\n              residing in NY, I am an aspiring data scientist and a\n              fiddle player.\n              I recently left an academic position to change careers.\n              I am seeking opportunities to apply my diverse skill set\n              to sustainability and environmental problem-solving.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2024-04-11T11:25:04-04:00"
+      "last_modified": "2024-04-11T11:26:24-04:00"
+    },
+    {
+      "path": "Sample_Projects.html",
+      "title": "Sample Projects",
+      "description": "Data science projects are forthcoming.\n",
+      "author": [
+        {
+          "name": "Denise Piechnik",
+          "url": "https://piechnik-d.github.io/datasci"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2024-04-11T11:30:52-04:00"
     }
   ],
   "collections": []

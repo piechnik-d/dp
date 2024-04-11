@@ -1,12 +1,16 @@
 name: "."
 title: "Denise Piechnik"
 description: |
-  Denise Piechnik
+  Data Science
 output_dir: "docs"
+base_url: https://piechnik.d.github.io/dp
+repository_url: https://github.com/piechnik-d/dp
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+#    - text: "Resume"
+#      href: about.html
+    - text: "Projects"
+      href: Sample_Projects.html
 output: distill::distill_article
