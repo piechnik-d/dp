@@ -12,7 +12,7 @@ description: |
 
 ---
 
-<a href="https://github.com/piechnik-d/dp/blob/a46eeb4eaf0485e1d860c010232508080df546e0/docs/DAPIECHNIK_RESUME_20240411.pdf" target="_blank" style="color:blue; font-size: 20px;">PDF of Resume</a>
+<a href="https://drive.google.com/file/d/1_-pVbkNy-XczLANP2QtHGpiqjYrwWYeV/view?usp=sharing" target="_blank" style="color:blue; font-size: 20px;">PDF of Resume</a>
 
 <a href="https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en" target="_blank" style="color:blue; font-size: 20px;"> Publications </a>
 
@@ -22,13 +22,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r, echo=FALSE}
-knitr::include_graphics("./DAPIECHNIK_RESUME1.png")
+knitr::include_graphics("./DAPIECHNIK_RESUME/DAPIECHNIK_RESUME.1.png")
 ```
 
 ```{r, echo=FALSE}
-knitr::include_graphics("./DAPIECHNIK_RESUME2.png")
+knitr::include_graphics("./DAPIECHNIK_RESUME/DAPIECHNIK_RESUME.2.png")
 ```
 
+<a href="https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en" target="_blank" style="color:blue; font-size: 20px;">Google Scholar Profile</a>
 
-
-<a href="https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en" target="_blank" style="color:blue; font-size: 20px;"> My Google Scholar Profile</a>
+<a href="https://linkedin.com/in/dapiechnik" target="_blank" style="color:blue; font-size: 20px;"> LinkedIn Profile
