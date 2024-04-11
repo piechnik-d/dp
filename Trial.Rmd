@@ -2,22 +2,20 @@
 title: "Resume"
 description: |
   
-author:
-  - name: Denise Piechnik 
+#author:
+#  - name: Denise Piechnik 
 #    url: https://example.com/norajones
 #    affiliation: Spacely Sprockets
 #    affiliation_url: https://example.com/spacelysprokets
-date: "`r Sys.Date()`"
-output: distill::distill_article
+#date: "`r Sys.Date()`"
+#output: distill::distill_article
+
 ---
 
-[Click here to open PDF](./DAPIECHNIK_RESUME_20240411.pdf)
+<a href="https://github.com/piechnik-d/dp/blob/a46eeb4eaf0485e1d860c010232508080df546e0/docs/DAPIECHNIK_RESUME_20240411.pdf" target="_blank" style="color:blue; font-size: 20px;">PDF of Resume</a>
 
-<a href="https://github.com/piechnik-d/dp/blob/main/DAPIECHsNIK_RESUME_20240411.pdf" target="_blank">Click here to open the PDF</a>
+<a href="https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en" target="_blank" style="color:blue; font-size: 20px;"> Publications </a>
 
-[Click here to see Publications](https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en)
-
-<a href="https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en" target="_blank"> My Google Scholar Profile</a>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -33,4 +31,4 @@ knitr::include_graphics("./DAPIECHNIK_RESUME2.png")
 
 
 
-
+<a href="https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en" target="_blank" style="color:blue; font-size: 20px;"> My Google Scholar Profile</a>

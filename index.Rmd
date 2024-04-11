@@ -13,6 +13,7 @@ links:
 output:
   postcards::jolla
 site: distill::distill_website
+
 ---
  
 Raised on a farm in mid-Michigan, I found my passion for science in California doing ecological research.  Now residing in NY, I am an aspiring data scientist and a fiddle player.  
