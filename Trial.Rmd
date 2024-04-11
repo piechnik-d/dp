@@ -13,7 +13,7 @@ output: distill::distill_article
 
 [Click here to open PDF](./DAPIECHNIK_RESUME_20240411.pdf)
 
-<a href="./DAPIECHNIK_RESUME_20240411" target="_blank">Click here to open the PDF</a>
+<a href="https://github.com/piechnik-d/dp/blob/main/DAPIECHsNIK_RESUME_20240411.pdf" target="_blank">Click here to open the PDF</a>
 
 [Click here to see Publications](https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en)
 
