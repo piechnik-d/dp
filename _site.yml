@@ -10,7 +10,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Resume"
-      href: Trial.html
+      href: about.html
     - text: "Projects"
       href: Sample_Projects.html
 #    - text: "Resume"
