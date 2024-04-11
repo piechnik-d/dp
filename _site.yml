@@ -7,6 +7,7 @@ base_url: https://piechnik.d.github.io/dp
 repository_url: https://github.com/piechnik-d/dp
 navbar:
   right:
+  
     - text: "Home"
       href: index.html
     - text: "Resume"
