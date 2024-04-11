@@ -15,6 +15,6 @@ output:
 site: distill::distill_website
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+Raised on a farm in mid-Michigan, I found my passion for science in California doing ecological research.  Now residing in NY, I am an aspiring data scientist and a fiddle player.  
+
+I recently left an academic position to change careers. I am seeking opportunities to apply my diverse skill set to sustainability and environmental problem-solving.
