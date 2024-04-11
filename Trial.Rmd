@@ -1,0 +1,36 @@
+---
+title: "Resume"
+description: |
+  
+author:
+  - name: Denise Piechnik 
+#    url: https://example.com/norajones
+#    affiliation: Spacely Sprockets
+#    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+[Click here to open PDF](./DAPIECHNIK_RESUME_20240411.pdf)
+
+<a href="./DAPIECHNIK_RESUME_20240411" target="_blank">Click here to open the PDF</a>
+
+[Click here to see Publications](https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en)
+
+<a href="https://scholar.google.com/citations?user=hTxoZYwAAAAJ&hl=en" target="_blank"> My Google Scholar Profile</a>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r, echo=FALSE}
+knitr::include_graphics("./DAPIECHNIK_RESUME1.png")
+```
+
+```{r, echo=FALSE}
+knitr::include_graphics("./DAPIECHNIK_RESUME2.png")
+```
+
+
+
+
