@@ -9,10 +9,10 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-#    - text: "Resume"
-#      href: about.html
+    - text: "Resume"
+      href: Trial.html
     - text: "Projects"
       href: Sample_Projects.html
-    - text: "Trial"
-      href: Trial.html
+#    - text: "Resume"
+#      href: Trial.html
 output: distill::distill_article
